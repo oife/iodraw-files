@@ -19,6 +19,9 @@
         <mxCell id="BPWvc9nFVyM1cU4oWs9k-3" value="camInfoPub" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BPWvc9nFVyM1cU4oWs9k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BPWvc9nFVyM1cU4oWs9k-5" target="BPWvc9nFVyM1cU4oWs9k-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BPWvc9nFVyM1cU4oWs9k-5" value="UnityCamHub.cs" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="10" width="80" height="80" as="geometry" />
         </mxCell>
