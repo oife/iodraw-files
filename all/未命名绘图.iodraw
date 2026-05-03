@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BPWvc9nFVyM1cU4oWs9k-0" value="ros2Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BPWvc9nFVyM1cU4oWs9k-1" value="camImagePub" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BPWvc9nFVyM1cU4oWs9k-3" value="camInfoPub" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
